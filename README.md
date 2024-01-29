@@ -16,6 +16,8 @@
 
 **3 _ Connctix →** [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)
 
+![alt text](image/c3.jpg "آیکن برنامه")
+
 __________________________________________
 
 Contact Us → [Telegram](http://t.me/fastfixgsm) _ [Gmail](mailto:gfix4600@gmail.com)       
