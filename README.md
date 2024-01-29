@@ -1,6 +1,6 @@
-<h1>A First Level Header</h1>
+<h1>بروزرسانی لینک اشتراک و دریافت لیست کانفیگ های جدید</h1>
 
-<h2>A Second Level Header</h2>
+<h2>هر چند وقت شما باید لیست سرورهای خود را بروز کنید تا کانفیگ های جدیدی که ساختیم برایتان به نمایش بیاید، برای اینکار طبق تصویر زیر عمل کنید: </h2>
 
 <p>Now is the time for all good men to come to
 the aid of their country. This is just a
