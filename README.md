@@ -42,4 +42,5 @@ example link</a>.</p>
 <a href="http://www.nytimes.com/">The New York Times</a>.</p>
 
 ![alt text](https://github.com/mostafacpr/connectix/blob/main/1-1.jpg "Title")
+
 ![alt text](https://github.com/mostafacpr/connectix/blob/main/2.jpg "Title")
