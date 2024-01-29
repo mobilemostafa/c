@@ -1,5 +1,10 @@
-<h2>دانلود برنامه های  Connectix </h2>
-
+<h2>
+<center> 
+        <p>
+          دانلود برنامه Connectix
+        </p>
+</center>
+</h2>
 
 ![alt text](image/c11.jpg "Title")
 
