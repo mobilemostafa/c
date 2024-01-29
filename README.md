@@ -1,7 +1,7 @@
 <h2>
 <center> 
         <p>
-          دانلود برنامه Connectix
+          Connectix دانلود برنامه
         </p>
 </center>
 </h2>
