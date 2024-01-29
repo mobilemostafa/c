@@ -34,3 +34,6 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 </ol>
 
 This is an [example link](http://example.com/ "With a Title").
+
+<p>This is an <a href="http://example.com/">
+example link</a>.</p>
