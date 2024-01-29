@@ -1,13 +1,14 @@
-<h2>
+<h1>
 <center> 
         <p>
           دانلود و نصب
         </p>
 </center>
-</h2>
+</h1>
 
-![alt text](image/c11.jpg "Title")
+#![alt text](image/c11.jpg "Title")#
 
+![alt text](image/c3.jpg "آیکن برنامه")
 
 
  **1 _ Connctix →**[Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) _ [📷](https://github.com/mostafacpr/connectix/blob/main/image/cadn.jpg)
