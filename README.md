@@ -40,3 +40,5 @@ example link</a>.</p>
 
 <p>I start my morning with a cup of coffee and
 <a href="http://www.nytimes.com/">The New York Times</a>.</p>
+
+![alt text]([/path/to/img.jpg](http://gfix.freehost.io/wp-content/uploads/2024/01/Screenshot_20240126_005332_Telegram.jpg)http://gfix.freehost.io/wp-content/uploads/2024/01/Screenshot_20240126_005332_Telegram.jpg "Title")
