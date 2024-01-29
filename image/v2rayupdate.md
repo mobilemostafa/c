@@ -10,4 +10,4 @@
 
 **و سپس </p>**
 
-![alt text](image/2.jpg "آپدیت اشتراک")
+![alt text](https://github.com/mostafacpr/connectix/blob/main/image/2.jpg "آپدیت اشتراک")
