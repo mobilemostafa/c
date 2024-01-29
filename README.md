@@ -1,7 +1,7 @@
 <h1>Connectix </h1>
 
 
-![alt text](image/c1.jpg "Title")
+![alt text](image/c11.jpg "Title")
 
 
 
