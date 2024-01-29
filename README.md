@@ -38,7 +38,7 @@ This is an [example link](http://example.com/ "With a Title").
 <p>This is an <a href="http://example.com/">
 example link</a>.</p>
 
-<p>I get 10 times more traffic from <a href="http://google.com/"
+<p>I get 10 times more traffic from <a href="[http://google.com/](http://gfix.freehost.io/wp-content/uploads/2024/01/Screenshot_20240126_005332_Telegram.jpg)"
 title="Google">Google</a> than from <a href="http://search.yahoo.com/"
 title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/"
 title="MSN Search">MSN</a>.</p>
