@@ -5,9 +5,9 @@
 
 
 
- **1 _ Connctix →**[Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk)
+ **1 _ Connctix →**[Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) & ![alt text](image/cand.jpg "Title")
  
-**2 _ Connctix →** [IOS](http://testflight.apple.com/join/ATDvld9Y)  & [Amoozesh IOS🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
+**2 _ Connctix →** [IOS](http://testflight.apple.com/join/ATDvld9Y)  & [Amoozesh IOS🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) & ![alt text](image/cios.jpg "Title")
 
 
 **3 _ Connctix →** [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)
