@@ -20,3 +20,9 @@ Some of these words <em>are emphasized also</em>.</p>
 
 <p>Use two asterisks for <strong>strong emphasis</strong>.
 Or, if you prefer, <strong>use two underscores instead</strong>.</p>
+
+<ol>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ol>
