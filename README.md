@@ -41,4 +41,4 @@ example link</a>.</p>
 <p>I start my morning with a cup of coffee and
 <a href="http://www.nytimes.com/">The New York Times</a>.</p>
 
-![alt text]([[/path/to/img.jpg](https://github.com/mostafacpr/connectix/blob/main/1-1.jpg)https://github.com/mostafacpr/connectix/blob/main/1-1.jpg]( "Title")
+![alt text](https://github.com/mostafacpr/connectix/blob/main/1-1.jpg "Title")
