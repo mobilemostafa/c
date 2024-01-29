@@ -5,8 +5,8 @@
 **<p>قبل از کلیک کردن روی دکمه آپدیت مطمئن بشید اتصال VPN خاموش باشد.</p>**
 
 
-![alt text](https://github.com/mostafacpr/connectix/blob/main/1-1.jpg "Title")
+![alt text](https://github.com/mostafacpr/connectix/blob/main/1-1.jpg " آپدیت اشتراک")
 
 **و سپس </p>**
 
-![alt text](https://github.com/mostafacpr/connectix/blob/main/2.jpg "Title")
+![alt text](https://github.com/mostafacpr/connectix/blob/main/2.jpg "آپدیت اشتراک")
