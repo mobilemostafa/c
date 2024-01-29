@@ -1,12 +1,9 @@
-<h1>بروزرسانی لینک اشتراک و دریافت لیست کانفیگ های جدید</h1>
-
-**<p>هر چند وقت شما باید لیست سرورهای خود را بروز کنید تا کانفیگ های جدیدی که ساختیم برایتان به نمایش بیاید، برای اینکار طبق تصویر زیر عمل کنید: </p>**
-
-**<p>قبل از کلیک کردن روی دکمه آپدیت مطمئن بشید اتصال VPN خاموش باشد.</p>**
+<h1>Connectix </h1>
 
 
-![alt text](https://github.com/mostafacpr/connectix/blob/main/1-1.jpg " آپدیت اشتراک")
+![alt text](image/c1.jpg "Title")
 
-**و سپس </p>**
+**[Android]**(https://apps.irancdn.org/android/Connectix-1.3.2.apk)
+& [IOS](http://testflight.apple.com/join/ATDvld9Y) & [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)  & [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
-![alt text](https://github.com/mostafacpr/connectix/blob/main/2.jpg "آپدیت اشتراک")
+...................................................
