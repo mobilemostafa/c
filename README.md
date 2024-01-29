@@ -12,5 +12,5 @@
 
 **3 _ Connctix →** [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)
 
-& ![alt text](image/cand.jpg "Title") & ![alt text](image/cios.jpg "Title")
+& ![alt text](image/cadn.jpg "Title") & ![alt text](image/cios.jpg "Title")
 
