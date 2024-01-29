@@ -5,11 +5,11 @@
 
 
 
- **Connctix**[Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk)
+ **1 _ Connctix →**[Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk)
  
-**Connctix** [IOS](http://testflight.apple.com/join/ATDvld9Y) 
+**2 _ Connctix →** [IOS](http://testflight.apple.com/join/ATDvld9Y) 
 
-**Connctix** [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)
+**3 _ Connctix →** [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)
 
 & [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
