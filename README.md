@@ -7,6 +7,6 @@
 
 ![alt text](https://github.com/mostafacpr/connectix/blob/main/1-1.jpg "Title")
 
-و سپس 
+**و سپس **
 
 ![alt text](https://github.com/mostafacpr/connectix/blob/main/2.jpg "Title")
