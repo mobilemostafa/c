@@ -2,9 +2,7 @@
 
 <h2>هر چند وقت شما باید لیست سرورهای خود را بروز کنید تا کانفیگ های جدیدی که ساختیم برایتان به نمایش بیاید، برای اینکار طبق تصویر زیر عمل کنید: </h2>
 
-<p>Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.</p>
+<p>قبل از کلیک کردن روی دکمه آپدیت مطمئن بشید اتصال VPN خاموش باشد.</p>
 
 <p>The quick brown fox jumped over the lazy
 dog's back.</p>
