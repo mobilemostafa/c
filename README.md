@@ -9,7 +9,7 @@
 
 <img src="image/c4.jpg" />
         
-<div dir=”rtl”>
+<div style="text-align: right">
         
 **1 _ آندروید →** [*کلیک کنید*](https://apps.irancdn.org/android/Connectix-1.3.2.apk) _ [📷](https://github.com/mostafacpr/connectix/blob/main/image/cadn.jpg)
 
