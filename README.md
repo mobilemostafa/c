@@ -6,11 +6,9 @@
 </center>
 </h1>
 
-<p align="center">
 
 <img src="image/c4.jpg" />
         
-</p>
 
 
 
