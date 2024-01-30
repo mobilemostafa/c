@@ -1,7 +1,7 @@
 <h1>
 <center> 
         <p>
-          دانلود و نصب 🍒
+          دانلود و نصب 
         </p>
 </center>
 </h1>
@@ -11,6 +11,10 @@
 <img src="image/c4.jpg" />
         
 </p>
+___
+
+---
+
 
  **1 _ Connctix →** [*Android*](https://apps.irancdn.org/android/Connectix-1.3.2.apk) _ [📷](https://github.com/mostafacpr/connectix/blob/main/image/cadn.jpg)
  
