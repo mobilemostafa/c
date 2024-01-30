@@ -11,8 +11,6 @@
 <img src="image/c4.jpg" />
         
 </p>
-___
-
 ---
 
 
