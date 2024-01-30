@@ -6,9 +6,9 @@
 </center>
 </h1>
 
-
+<p align="center">
 ![alt text](image/c4.jpg "آیکن برنامه")
-
+</p>
 
  **1 _ Connctix →** [*Android*](https://apps.irancdn.org/android/Connectix-1.3.2.apk) _ [📷](https://github.com/mostafacpr/connectix/blob/main/image/cadn.jpg)
  
