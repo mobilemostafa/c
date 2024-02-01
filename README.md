@@ -18,13 +18,9 @@
 **3 _ Connctix →** [*Windows*](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)
 
 <img src="image/1.jpg" />
-
 <img src="image/2.jpg" />
-
 <img src="image/3.jpg" />
-
 <img src="image/4.jpg" />
-
 <img src="image/5.jpg" />
 
 __________________________________________
