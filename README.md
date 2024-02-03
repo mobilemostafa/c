@@ -34,6 +34,6 @@
 
 __________________________________________
 
-Contact Us → [Telegram](http://t.me/fastfixgsm) _ [karajfix@gmail.com](mailto:gfix4600@gmail.com)       
+:bulb: Contact Us → [Telegram](http://t.me/fastfixgsm) _ [karajfix@gmail.com](mailto:gfix4600@gmail.com)       
 
 
