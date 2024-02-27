@@ -16,6 +16,10 @@
 
 
 ---
+برای اطلاع از آخرین تغییرات در کانال تلگرام ما عضو شوید =>
+✅[**Telegram channel**](https://t.me/+zqVIDH8qV6c4Njc8)
+
+---
 
 <img src="image/c4.jpg" />
 
