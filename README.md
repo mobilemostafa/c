@@ -18,14 +18,14 @@
 ---
 برای اطلاع از آخرین تغییرات در کانال تلگرام ما عضو شوید
 
-✅ [[**Telegram channel**]](https://t.me/+QDqHzG8cLuQ1Y2E8)
+✅ [[**Telegram کانالl**]](https://t.me/+QDqHzG8cLuQ1Y2E8)
 
 ---
-دریافت اکانت تست از ربات تلگرام ما
+دریافت اکانت تست یک روزه رایگان از ربات تلگرام ما
 
 ✅ [[**Telegram ربات**]](https://t.me/mst_vpn_bot)
 
-
+---
 
 <img src="image/c4.jpg" />
 
