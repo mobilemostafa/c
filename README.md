@@ -18,12 +18,12 @@
 ---
 برای اطلاع از آخرین تغییرات در کانال تلگرام ما عضو شوید
 
-✅ [**Telegram channel**](https://t.me/+QDqHzG8cLuQ1Y2E8)
+✅ [[**Telegram channel**]](https://t.me/mst_vpn_bot)(https://t.me/+QDqHzG8cLuQ1Y2E8)
 
 ---
 دریافت اکانت تست از ربات تلگرام ما
+✅ [[**Telegram ربات**]](https://t.me/mst_vpn_bot)
 
-(https://t.me/mst_vpn_bot)[کلیک کنید]
 
 
 <img src="image/c4.jpg" />
