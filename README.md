@@ -21,7 +21,8 @@
 ✅ [**Telegram channel**](https://t.me/+QDqHzG8cLuQ1Y2E8)
 
 ---
-دریافت اکانت تست از ربات تلگرام ما (https://t.me/mst_vpn_bot)[کلیک کنید]
+دریافت اکانت تست از ربات تلگرام ما
+(https://t.me/mst_vpn_bot)[کلیک کنید]
 
 <img src="image/c4.jpg" />
 
