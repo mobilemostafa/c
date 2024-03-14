@@ -8,7 +8,7 @@
 </h1>
 
 
-🟣 [**Android**](https://apps.irancdn.org/android/connectix-2.0.2.apk) _ [📷](https://github.com/mostafacpr/connectix/blob/main/image/cadn.jpg)
+🟣 [**Android**](https://apps.irancdn.org/android/connectix-2.0.2.apk) 
  
 🟣 [**IOS**](http://testflight.apple.com/join/ATDvld9Y)  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) _ [📷](https://github.com/mostafacpr/connectix/blob/main/image/cios.jpg)
 
