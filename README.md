@@ -18,7 +18,7 @@
 ---
 برای اطلاع از آخرین تغییرات در کانال تلگرام ما عضو شوید
 
-✅ [[**Telegram channel**]](https://t.me/mst_vpn_bot)(https://t.me/+QDqHzG8cLuQ1Y2E8)
+✅ [[**Telegram channel**]](https://t.me/+QDqHzG8cLuQ1Y2E8)
 
 ---
 دریافت اکانت تست از ربات تلگرام ما
