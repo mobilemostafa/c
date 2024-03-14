@@ -18,12 +18,12 @@
 ---
 برای اطلاع از آخرین تغییرات در کانال تلگرام ما عضو شوید
 
-✅ [[**Telegram کانالl**]](https://t.me/+QDqHzG8cLuQ1Y2E8)
+✅ [**Telegram کانال**](https://t.me/+QDqHzG8cLuQ1Y2E8)
 
 ---
 دریافت اکانت تست یک روزه رایگان از ربات تلگرام ما
 
-✅ [[**Telegram ربات**]](https://t.me/mst_vpn_bot)
+✅ [**Telegram ربات**](https://t.me/mst_vpn_bot)
 
 ---
 
