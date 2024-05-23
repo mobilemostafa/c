@@ -1,11 +1,11 @@
 
-<h1>
+<h2>
 <center> 
         <p>
           دانلود و نصب 
         </p>
 </center>
-</h1>
+</h2>
 
 
 🟣 [**Android**](https://play.google.com/store/apps/details?id=uk.connectix.app)
@@ -19,7 +19,7 @@
 ---
 <h1>
 <center> 
- **خرید اکانت از ربات تلگرام ما**
+ خرید اکانت از ربات تلگرام ما
 
 ✅ [**Telegram ربات**](https://t.me/mst_vpn_bot)
 
