@@ -20,11 +20,12 @@
 <h1>
 <center> 
  خرید اکانت از ربات تلگرام ما
+</center>
+</h1>
 
 ✅ [**Telegram ربات**](https://t.me/mst_vpn_bot)
 
-</center>
-</h1>
+
 
 
 ---
