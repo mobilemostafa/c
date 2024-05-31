@@ -8,7 +8,7 @@
 </h2>
 
 
-🟣 [**Android - برنامه آندروید مستقیم**](https://drive.google.com/uc?export=download&id=1FWAdvSEksMrdcIxlFXv0sLEBhu9y6jxe) -
+🟣 [**Android - برنامه آندروید مستقیم**](https://drive.google.com/uc?export=download&id=14BG7yEJfQ0HzM9Qlx5fVdkLaVSj5XGmF)- [link 2](https://apps.irancdn.org/android/connectix-2.1.0.apk) -
 
 [**برنامه آندروید از فروشگاه گوگل**](https://play.google.com/store/apps/details?id=uk.connectix.app)
 
