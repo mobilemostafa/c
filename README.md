@@ -15,7 +15,7 @@
 [📷](https://github.com/user-attachments/assets/4bc946af-526b-4602-b22e-b0ddc7ea346d)
 
 🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.0.2.zip)
-)
+
 
 
 ---
