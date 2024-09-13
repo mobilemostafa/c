@@ -8,7 +8,7 @@
 </h2>
 
 
-🟣 [**Android - برنامه آندروید**](https://drive.google.com/uc?export=download&id=1_enIxtRNIhV4z5OlE-OnSXGPrXl03iFw)- [*link 2 (v8a)*](https://apps.irancdn.org/android/connectix-2.2.1.apk)- [*link 2 (v7a)*](https://apps.irancdn.org/android/connectix-2.2.1-v7a.apk) - [*link 3*](https://play.google.com/store/apps/details?id=uk.connectix.app)
+🟣 [**Android - برنامه آندروید**](https://drive.google.com/uc?export=download&id=1_enIxtRNIhV4z5OlE-OnSXGPrXl03iFw)----- [*link 2 (v8a)*](https://apps.irancdn.org/android/connectix-2.2.1.apk)- [*link 2 (v7a)*](https://apps.irancdn.org/android/connectix-2.2.1-v7a.apk) - [*link 3*](https://play.google.com/store/apps/details?id=uk.connectix.app)
 
  
 🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX)  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) _
