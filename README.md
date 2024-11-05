@@ -14,7 +14,7 @@
 🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX)  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) _
 [📷](https://github.com/user-attachments/assets/4bc946af-526b-4602-b22e-b0ddc7ea346d)
 
-🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.0.2.zip)
+🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.2.0.zip)
 
 
 
