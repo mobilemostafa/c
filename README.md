@@ -1,4 +1,3 @@
-
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +10,9 @@
             padding: 10px;
             font-size: 1.2em;
         }
-        .header span {
+        .header .brand {
+            font-size: 1.5em;
+            color: #6a0dad; /* رنگ بنفش برای تمایز */
             font-weight: bold;
         }
     </style>
@@ -19,7 +20,7 @@
 <body>
 
 <div class="header">
-    <span>موبایل مصطفی</span><br>
+    <span class="brand">موبایل مصطفی</span><br>
     کلیه خدمات تلفن همراه - 09354811944
 </div>
 
@@ -27,6 +28,7 @@
 
 </body>
 </html>
+
 
 <center> 
         <p>
