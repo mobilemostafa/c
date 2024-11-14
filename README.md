@@ -1,18 +1,33 @@
-<h1>
-<center> 
-        <p>
-       ✅ موبایل مصطفی ✅
-        </p>
-</center>
-</h1>
-<h2>
-<center> 
-        <p>
-         ✅  کلیه خدمات تلفن همراه  - 09354811944✅
-        </p>
-</center>
-</h2>
-<h2>
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>وب‌سایت موبایل مصطفی</title>
+    <style>
+        .header {
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 10px;
+            font-size: 1.2em;
+        }
+        .header span {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <span>موبایل مصطفی</span><br>
+    کلیه خدمات تلفن همراه - 09354811944
+</div>
+
+<!-- سایر محتوای صفحه شما اینجا قرار می‌گیرد -->
+
+</body>
+</html>
+
 <center> 
         <p>
           دانلود و نصب 
