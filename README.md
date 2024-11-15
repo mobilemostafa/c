@@ -31,11 +31,11 @@
 
 
 
-#<center> 
+#<left> 
         <p>
           دانلود و نصب 
         </p>
-#</center>
+#</left>
 
 
 
