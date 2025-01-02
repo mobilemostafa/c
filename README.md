@@ -1,4 +1,3 @@
-
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,7 @@
         }
         .header .brand {
             font-size: 1.5em;
-            color: #28a745; /* رنگ سبز برای تمایز */
+            color: #6a0dad; /* رنگ بنفش برای تمایز */
             font-weight: bold;
         }
     </style>
@@ -32,53 +31,56 @@
 
 ---
 
-🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://my.uupload.ir/dl/BvmraYQp) - [link2](https://www.mediafire.com/file/1xengglmo53tf4d/io.github.segas.myvpn-v2.67-51-release.apk/file)
+<left> 
+        <p>
+          دانلود و نصب 
+        </p>
+</left>
 
----
 
- [Android  ورژن قدیمی](https://drive.google.com/uc?export=download&id=1Gj96dzEhWtm8P4fFnEli-F8deimAxTQS) 
+
+🟣 [**Android - برنامه آندروید**](https://apps.irancdn.org/android/connectix-2.2.1.apk)  -----   [*(v8a)*](https://drive.google.com/uc?export=download&id=1_enIxtRNIhV4z5OlE-OnSXGPrXl03iFw)- [*(v7a)*](https://apps.irancdn.org/android/connectix-2.2.1-v7a.apk " برای گوشیهای قدیمی") 
+
  
+🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web "فیلم نصب روی آیفون") _
+[📷](https://github.com/user-attachments/assets/4bc946af-526b-4602-b22e-b0ddc7ea346d)
+
+🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.2.0.zip "مخصوص ویندوز ")
+
+
+
 ---
+<h1>
+<center> 
+ خرید اکانت از ربات تلگرام ما
+</center>
+</h1>
 
-🟢 [**Windows**](https://drive.google.com/file/d/19r3qO1on-Qm8LmMH2r3UyCCNu9g4L8kf/view?usp=sharing) - [link2](https://drive.usercontent.google.com/download?id=19r3qO1on-Qm8LmMH2r3UyCCNu9g4L8kf&export=download&authuser=0)
-
-_____________________________________________________
+✅ [**Telegram ربات**](https://t.me/mst_vpn_bot)
 
 
+
+
+---
 برای اطلاع از آخرین تغییرات در کانال تلگرام ما عضو شوید
 
-✅ [**Telegram channel**](https://t.me/+TOnGIN-7yqE8tPxm)
-
----
-
-<center> 
-        <p>
- برنامه رو از لینک بالا با فیلتر شکن خاموش دانلود و نصب و اجرا میکنیم.
-
-با وارد کردن نام کاربری و رمز عبور خریداری شده وارد برنامه میشویم و با انتخاب یکی از سرور های موجود متصل میشویم.
-        </p>
-</center>
+✅ [**Telegram کانال**](https://t.me/+QDqHzG8cLuQ1Y2E8)
 
 
-![alt text](myvpn/my1.jpg "Title")<small>
+<img src="image/c4.jpg" />
 
-![alt text](myvpn/my4.jpg "Title")<small>
+<img src="image/1.jpg" />
 
----
-[iKev اتصال با](ikev.md)
+<img src="image/2.jpg" />
 
-[L2tp اتصال با](L2tp.md)
+<img src="image/4.jpg" />
 
-[cisco اتصال با ](openconnect.md) 
+<img src="image/3.jpg" />
 
-[openvpn اتصال با ](openvpn.md) 
+<img src="image/5.jpg" />
 
+__________________________________________
 
-
-
-
+> Contact Us → [Telegram](http://t.me/fastfixgsm) _ [gfix4600@gmail.com](mailto:gfix4600@gmail.com)       
 
 
-________________________________________
-
-Contact Us → [Telegram](http://t.me/fastfixgsm) & [gfix4600@gmail.com](mailto:gfix4600@gmail.com)   
